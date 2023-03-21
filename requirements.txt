@@ -1,0 +1,5 @@
+langchain
+BeautifulSoup4
+unstructured
+openai
+faiss-cpu
